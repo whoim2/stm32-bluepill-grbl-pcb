@@ -4,5 +4,5 @@ have 3 mosfets (spindel/fan1/fan2), placeholders for drivers on X,Y,Z and pins f
 Designed in DipTrace
 
 _diy for custom make
-
+_g2g have GGEasy project for custom
 [image](https://raw.githubusercontent.com/whoim2/stm32-bluepill-grbl-pcb/main/img-diy/Screenshot_7.png)
