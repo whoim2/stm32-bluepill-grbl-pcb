@@ -7,4 +7,6 @@ _diy for custom make
 
 _g2g have GGEasy project for custom
 
+_pcb_2side_gerber.zip for order
+
 [image](https://raw.githubusercontent.com/whoim2/stm32-bluepill-grbl-pcb/main/img-diy/Screenshot_7.png)
