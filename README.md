@@ -5,4 +5,4 @@ Designed in DipTrace
 
 _diy for custom make
 
-[image](https://github.com/whoim2/stm32-bluepill-grbl-pcb/blob/main/img-diy/Screenshot_7.png)
+[image](https://raw.githubusercontent.com/whoim2/stm32-bluepill-grbl-pcb/main/img-diy/Screenshot_7.png)
