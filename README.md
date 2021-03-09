@@ -14,4 +14,4 @@ _pcb_2side_gerber.zip for order
 
 ![laser engraving diy pcb](https://raw.githubusercontent.com/whoim2/stm32-bluepill-grbl-pcb/main/img-diy/Screenshot_7.png)
 
-![pcb diy at laser](https://github.com/whoim2/stm32-bluepill-grbl-pcb/raw/main/IMG_20210302_205903.jpg)
+![pcb diy at laser](https://github.com/whoim2/stm32-bluepill-grbl-pcb/raw/main/IMG_20210302_214914.jpg)
