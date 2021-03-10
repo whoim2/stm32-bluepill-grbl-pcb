@@ -13,7 +13,7 @@ _g2g have GGEasy project for custom
 
 _pcb_2side_gerber.zip for order
 
-_LR7843 and PC817 optoswitch
+_LR7843 and PC817 optoswitch (https://github.com/whoim2/stm32-bluepill-grbl-pcb/raw/main/photo5352605724695441770.jpg)
 
 ![laser engraving diy pcb](https://raw.githubusercontent.com/whoim2/stm32-bluepill-grbl-pcb/main/img-diy/Screenshot_7.png)
 
